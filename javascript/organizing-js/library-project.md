@@ -386,5 +386,6 @@ Send us your solution so we can show others! Submit a link below to this [file](
 - [calebrauscher's Solution (w/local storage)](https://github.com/calebrauscher/The-Odin-Project/tree/master/library) - [View in Browser](https://calebrauscher.github.io/The-Odin-Project/library/)
 - [skwiryt's solution (w/ Local Storage)](https://github.com/skwiryt/library) - [View in Browser](https://skwiryt.github.io/library/)
 - [Orhan's solution (w/localstorage)](https://github.com/orhanugurlu/the_odin_project/tree/master/library) - [View in Browser](https://orhanugurlu.github.io/the_odin_project/library/index.html)
+-[Safei's solution (w/localstorage)](https://github.com/Safei-Ashraf/Library-Challenge) - [View in Browser](https://odin-project-library.netlify.app/)
 
 </details>
